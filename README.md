@@ -37,12 +37,8 @@ First, you'll need to clone the correct repo to your desired directory on your m
 
 ## Step 2: Preparing and Running the Terraform File
 
----
-
 Here, I'm assuming that (1) you have the knowledge on navigating around Azure portal, and (2) you have already prepped and logged into the Azure portal via ACG Azure Sandbox/your own Azure account on your preferred browser.
 
----
-
 ### Preparing the `main.tf` file
-1. Go to you Azure portal and copy the generated resource group name to your clipboard.
+1. Go to your Azure portal and copy the generated resource group name to your clipboard.
 2. Open the challenge
